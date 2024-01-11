@@ -35,9 +35,9 @@ void example(){
 Make sure to provide clear and concise examples so that users can understand how to integrate and use your package in their projects.
 
 ## Contributions and Issues
-
-If you encounter problems or wish to contribute, please open an issue or send a pull request on the [package's GitHub repository](link_to_repository).
+ 
+If you encounter problems or wish to contribute, please open an issue or send a pull request on the [package's GitHub repository](https://github.com/rubcc95/firestore_merge)
 
 ## License
 
-This package is under the Apache License 2.0.
+This package is under the [Apache License 2.0](https://github.com/rubcc95/firestore_merge/blob/main/LICENSE).
